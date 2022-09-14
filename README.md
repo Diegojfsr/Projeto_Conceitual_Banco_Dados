@@ -12,18 +12,17 @@ Especificar as PK e FKs corretamente. E o entregável será o esquema conceitual
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Módulo 1 - Construindo seu primeiro Projeto de Banco de Dados. <a href="https://"> Acessar </a></li>
-<li> Módulo 2 - Ferramenta de Design alternativa – Draw.io. <a href="https://"> Acessar </a></li>
-<li> Módulo 3 - Ferramenta de Design alternativa – DBDesigner.net. <a href="https://"> Acessar </a></li>
-<li> Módulo 5 - Instalando Workbench no Windows. <a href="https://"> Acessar </a></li
-<li> Módulo 6 - Modelando o cenário de Ordem de Serviço. <a href="https://"> Acessar </a></li
-<li> Módulo 7 - Narrativa: Escopo de Universidade. <a href="https://"> Acessar </a></li
-<li> Módulo 8 - Modelando o Cenário de Universidade. <a href="https://"> Acessar </a></li
-<li> Módulo 9 - Refinando o modelo - Universidade. <a href="https://"> Acessar </a></li
-<li> Módulo 10 - Narrativa: Escopo de E-commerce. <a href="https://"> Acessar </a></li
-<li> Módulo 11 - Entendendo o Desafio: Refinando um Projeto Conceitual de Banco de Dados. <a href="https://"> Acessar </a></li
-<li> Módulo 12 - Instruções para sua entrega. <a href="https://"> Acessar </a></li
-
+ <li> Módulo 1 - Construindo seu primeiro Projeto de Banco de Dados. <a href="https://"> Acessar </a></li>
+ <li> Módulo 2 - Ferramenta de Design alternativa – Draw.io. <a href="https://"> Acessar </a></li>
+ <li> Módulo 3 - Ferramenta de Design alternativa – DBDesigner.net. <a href="https://"> Acessar </a></li>
+ <li> Módulo 5 - Instalando Workbench no Windows. <a href="https://"> Acessar </a></li>
+ <li> Módulo 6 - Modelando o cenário de Ordem de Serviço. <a href="https://"> Acessar </a></li>
+ <li> Módulo 7 - Narrativa: Escopo de Universidade. <a href="https://"> Acessar </a></li>
+ <li> Módulo 8 - Modelando o Cenário de Universidade. <a href="https://"> Acessar </a></li>
+ <li> Módulo 9 - Refinando o modelo - Universidade. <a href="https://"> Acessar </a></li>
+ <li> Módulo 10 - Narrativa: Escopo de E-commerce. <a href="https://"> Acessar </a></li>
+ <li> Módulo 11 - Refinando um Projeto Conceitual de Banco de Dados. <a href="https://"> Acessar </a></li>
+ <li> Módulo 12 - Instruções para sua entrega. <a href="https://"> Acessar </a></li>
 </ul>
 
 
