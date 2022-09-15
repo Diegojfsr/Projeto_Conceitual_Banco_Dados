@@ -5,10 +5,14 @@
 
 <h4> Repositório criado para documentar meu passo a passo no Database Experience! Um programa para profissionais que procuram uma experiência rápida em Ciência de Dados para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL. </h4>
 
-<h2> 🎯 Objetivo </h2>
-Modelar um e-comerce em um contexto reduzido. 
-Escolher uma ferramenta como: Mysql Workbench ou DBDesigner de modelagem para realizar o projeto. 
-Especificar as PK e FKs corretamente. E o entregável será o esquema conceitual para o cenário de E-commerce.
+
+<h2 dir="auto"> 🎯 Objetivo </h2>
+<ul dir="auto">
+  <li> Modelar um e-comerce em um contexto reduzido. </li>
+  <li> Escolher uma ferramenta como: Mysql Workbench ou DBDesigner de modelagem para realizar o projeto. </li>
+  <li> Especificar as PK e FKs corretamente. E o entregável será o esquema conceitual para o cenário de E-commerce. </li>
+</ul>
+
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
