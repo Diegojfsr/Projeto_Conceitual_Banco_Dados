@@ -10,7 +10,8 @@
 <ul dir="auto">
   <li> Modelar um e-comerce em um contexto reduzido. </li>
   <li> Escolher uma ferramenta como: Mysql Workbench ou DBDesigner de modelagem para realizar o projeto. </li>
-  <li> Especificar as PK e FKs corretamente. E o entregável será o esquema conceitual para o cenário de E-commerce. </li>
+  <li> Especificar as PK e FKs corretamente. </li>
+  <li> Montar um entregável conceitual para o cenário de E-commerce. </li>
 </ul>
 
 
